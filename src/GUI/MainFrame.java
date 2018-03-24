@@ -15,7 +15,7 @@ public class MainFrame extends JFrame{
 		setLayout(null);
 		setLocationRelativeTo(null);
 		setAlwaysOnTop(true);
-		setTitle("植物大战僵尸");
+		setTitle("OpenPVZ");
 		setVisible(true);
 
 	}

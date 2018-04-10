@@ -1,6 +1,7 @@
 # OpenPVZ
 Using Java code to achieve open source like plants vs Zombies</br>
 开源的java实现的类似植物大战僵尸的开源游戏
+<img src="gameWindow1.png" />
 </br>
 素材：</br>
 素材我没有著作权，都是拥有共享精神的小伙伴共享的素材。如果你用于<br>
